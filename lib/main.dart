@@ -6,9 +6,15 @@ class BytebankApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: Scaffold(
-        body: ListaTransferencias(),
+      theme: ThemeData(
+        primaryColor: Colors.blue[900],
+        accentColor: Colors.blueAccent[400],
+        buttonTheme: ButtonThemeData(
+          buttonColor: Colors.blueAccent[400],
+          textTheme: ButtonTextTheme.primary
+        )
       ),
+      home: ListaTransferencias(),
     );
   }
 }
