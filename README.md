@@ -1,16 +1,14 @@
 # bytebank
 
-A new Flutter project.
+Projeto de Aplicativo Flutter.
 
-## Getting Started
+# Desenvolvimento
 
-This project is a starting point for a Flutter application.
+App desenvolvido seguindo proposta previamente construída para a disciplina de Tecnologia
+Para dispositivos móveis, lecionada pelo orientador: Gustavo Calixto - Senac SP
 
-A few resources to get you started if this is your first Flutter project:
+O projeto foi realizado utilizando Dart/Flutter e testado na API 29 do android
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# IDE utilizada no projeto
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+IntelliJ IDEA
