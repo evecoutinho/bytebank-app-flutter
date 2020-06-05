@@ -9,8 +9,9 @@ Para dispositivos móveis, lecionada pelo orientador: Gustavo Calixto - Senac SP
 
 O projeto foi realizado utilizando Dart/Flutter e testado na API 29 do android
 
-# IDE utilizada no projeto
+# Extras
 
+IDE utilizada: 
 IntelliJ IDEA
 
 Refatoração seguindo do projeto seguindo as boas práticas: 
