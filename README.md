@@ -12,3 +12,5 @@ O projeto foi realizado utilizando Dart/Flutter e testado na API 29 do android
 # IDE utilizada no projeto
 
 IntelliJ IDEA
+
+Refatoração seguindo do projeto seguindo as boas práticas: https://medium.com/flutter-community/flutter-code-organization-de3a4c219149
